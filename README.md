@@ -1,2 +1,2 @@
 # pndy-resolusi
-Repository nntuk menyimpan rencana pandedony
+Repository untuk menyimpan rencana pandedony
