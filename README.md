@@ -37,4 +37,4 @@ Repository untuk menyimpan rencana pembelajaran pandedony
 	- $ git branch -D <nama branch> (delete without merge)
 12. Belajar Laravel
 	- CRUD
-	- Tampil dan Tambah Data
+	- Belajar Data Tables
