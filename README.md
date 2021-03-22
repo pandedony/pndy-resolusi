@@ -35,6 +35,13 @@ Repository untuk menyimpan rencana pembelajaran pandedony
 11. Delete Branch
 	- $ git branch -d <nama branch>
 	- $ git branch -D <nama branch> (delete without merge)
-======================================================================================================================================
+===========
+
 LARAVEL
-1. 
+MANUAL
+1. Pelajari Crud Laravel
+	- https://www.youtube.com/watch?v=eRZFGSCkAnw&t=1452s part 1 (ada 4 part)
+2. Belajar membuat registrasi, mempelajari bcrypt
+3. Belajar membuat verifikasi email
+4. belajar membuat lupa password yang dikirimkan melalui email
+5. Belajar membuat login
